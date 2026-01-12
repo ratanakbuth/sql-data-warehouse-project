@@ -22,7 +22,6 @@ from bronze.crm_prd_info
 where prd_cost is null
 
 Select 
-	
 	prd_end_dt
 from bronze.crm_prd_info
 where prd_end_dt is null
@@ -130,7 +129,6 @@ from bronze.crm_prd_info
 where prd_cost is null
 
 Select 
-	
 	prd_end_dt
 from bronze.crm_prd_info
 where prd_end_dt is null
